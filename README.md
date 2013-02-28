@@ -9,7 +9,7 @@ Usage: php du.php JobID [path] [depth]
 
 Example:
 
- ./du.php  4161 
+./du.php  4161 
 
  41.18 K        /etc/bacula/scripts/
  98.08 K        /etc/bacula/
