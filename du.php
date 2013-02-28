@@ -1,5 +1,6 @@
 #!/usr/bin/php
 <?php
+/* script to calculate size of bacula backups */
 
 $host='localhost';
 $user='bacula';
