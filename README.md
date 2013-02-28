@@ -7,6 +7,7 @@ Usage: php du.php JobID [path] [depth]
 	path  - start point, default /
 	depth - depth from the startpoint, default 3
 
+---------------------------------------------------------------------------------------------
 Example:
 
 ./du.php  4161 
@@ -23,3 +24,4 @@ Example:
 279.34 M        /
 
 410 files of 279.34 M found in / for job 4161
+---------------------------------------------------------------------------------------------
